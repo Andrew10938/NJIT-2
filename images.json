@@ -1,82 +1,34 @@
 {
     "images": [
         {
-            "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "imgPath": "https://cdn.vox-cdn.com/thumbor/FrEVUUm1BKT_TKJJ8VaDhLlGKHI=/0x0:4800x3300/1200x800/filters:focal(1954x620:2722x1388)/cdn.vox-cdn.com/uploads/chorus_image/image/71925558/1460384746.0.jpg",
+            "imgLocation": "Stephen Curry",
+            "description": "6'2",
+            "date": "Point Guard"
         },
         {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
-            "description": "Austrian chapel",
-            "date": "01/02/2016"
+            "imgPath": "https://www.gannett-cdn.com/presto/2022/01/08/USAT/7ab3160d-898a-4775-bb63-0a5fee1759bd-2022-01-08_Klay_Thompson.jpg?crop=2991,1682,x0,y46&width=2991&height=1682&format=pjpg&auto=webp",
+            "imgLocation": "Klay Thompson",
+            "description": "6'6",
+            "date": "Shooting Guard"
         },
         {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
-            "description": "Eiffel Tower",
-            "date": "01/03/2016"
+            "imgPath": "https://s.hdnux.com/photos/01/30/72/40/23308315/3/1200x0.jpg",
+            "imgLocation": "Andrew Wiggins",
+            "description": "6'7",
+            "date": "Small Forward"
         },
         {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
+            "imgPath": "https://spartanswire.usatoday.com/wp-content/uploads/sites/28/2022/06/14eb6f29f88f488d8ab1bedafa5671e7.jpg?w=1000&h=600&crop=1",
+            "imgLocation": "Draymond Green",
+            "description": "6'6",
+            "date": "Power Forward"
         },
         {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
-            "description": "Budapest skyline",
-            "date": "01/05/2016"
-        },
-        {
-            "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
-            "description": "Taj Mahal",
-            "date": "01/06/2016"
-        },
-        {
-            "imgPath": "img/places/italy.jpg",
-            "imgLocation": "Italy",
-            "description": "Venice",
-            "date": "01/07/2016"
-        },
-        {
-            "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
-            "description": "Hirosaki Castle",
-            "date": "01/08/2016"
-        },
-        {
-            "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
-            "date": "01/09/2016"
-        },
-        {
-            "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
-            "description": "Countryside mountains",
-            "date": "01/10/2016"
-        },
-        {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
-            "date": "01/11/2016"
-        },
-        {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
-        },
-        {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
+            "imgPath": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fbluemanhoop.com%2Fwp-content%2Fuploads%2Fimagn-images%2F2017%2F07%2F17195232.jpeg",
+            "imgLocation": "Kevin Looney",
+            "description": "6'9",
+            "date": "Center"
         }
   ]
 }
